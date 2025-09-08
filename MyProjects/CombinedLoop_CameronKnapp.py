@@ -1,4 +1,4 @@
-# For & While Loops As One -- Cameron Knapp [243]
+# For & While Loops As One -- Cameron Knapp [243] 
 
 while True:
     choice = input("Would you like me to count to ten using the 'For' or 'While' method? ")
