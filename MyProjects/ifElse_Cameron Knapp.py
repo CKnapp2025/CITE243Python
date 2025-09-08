@@ -5,7 +5,7 @@ time = input("Do you want a short movie (under 2 hours) or a long movie (2+ hour
 
 if mood == "happy":
     if time == "short":
-        print("Watch 'Ferris Bueller's Day Off' (fun and under 2 hours).")
+        print("Watch 'Ferris Buellers Day Off' (fun and under 2 hours).")
     else:
         print("Watch 'Superbad' (a longer comedy night with friends).")
 
