@@ -7,7 +7,7 @@ while guess not in ('heads', 'tails'):
     print('Guess the coin toss! Enter heads or tails:')
     guess = input()
 
-toss = random.randint(0, 1)  # 0 is tails, 1 is heads <-- Wasn't actually being done in the original program.
+toss = random.randint(0, 1)  # 0 is tails, 1 is heads <-- Wasn't actually being done in the original program. It would generate an integer then immediately compare that to the input.
 if toss == 0:
     toss = 'tails'           # Changed to convert '0' to the string 'tails' instead of being just an integer.
 else:
