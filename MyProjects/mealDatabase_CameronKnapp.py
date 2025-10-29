@@ -1,6 +1,6 @@
 """
 ===========================================================
-Program Name: Meal Database
+Program Name: Meal Database 
 Author: Cameron Knapp
 Date: 2025-10-29
 Description:
